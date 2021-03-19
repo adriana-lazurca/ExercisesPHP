@@ -1,11 +1,9 @@
 ## PHP EXERCISES
 
-Challenges
+### Challenges:
  - variables
 
  - conditions
-
-- quizz
 
  - arrays
 
